@@ -1,0 +1,8 @@
+customtkinter==5.2.2
+yfinance==0.2.40
+darkdetect==0.8.0
+pandas==2.2.2
+requests==2.32.3
+numpy==1.26.4
+urllib3==2.2.2
+lxml==5.2.2
